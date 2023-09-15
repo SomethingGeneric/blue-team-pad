@@ -5,3 +5,7 @@ View the documentation for the Blue Team Pad by visiting: https://fearherbs1.git
 
 Below is the demo unit that was shown at Champlain's 2023 ITS Capstone Showcase 
 ![blue_team_pad](https://i.imgur.com/j8ZPV9X.png)
+
+
+# This project has moved:
+[GitLab Repository](https://gitlab.mattcompton.dev/matt/blue-team-pad)
